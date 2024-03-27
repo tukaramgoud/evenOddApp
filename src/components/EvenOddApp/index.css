@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.background-container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #334155, #bfe9ff);
+  height: 100vh;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.count-main-heading {
+  font-family: Roboto;
+  font-size: 60px;
+  font-weight: 600;
+}
+.count-sub-container {
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: 500;
+  color: #1e293b;
+}
+.button {
+  padding: 10px;
+  font-family: Roboto;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 15px;
+}
+.note-para {
+  color: #1e293b;
+  font-weight: 600;
+}
